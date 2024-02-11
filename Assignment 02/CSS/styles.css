@@ -1,0 +1,362 @@
+body {
+  background-color: #111122;
+}
+
+.navigation-ber {
+  margin-left: 600px;
+  text-align: center;
+  margin-top: -40px;
+}
+.navigation-ber a {
+  color: white;
+  text-align: center;
+  font-size: 23px;
+  padding: 10px;
+  text-decoration:none;
+}
+a:hover {
+  color: orange;
+
+}
+
+.color-bg {
+  background: orange;
+  border-radius:20px;
+}
+.name{
+  margin-left:30px;
+}
+.name a{
+  text-decoration:none;
+}
+.name h1 {
+  color: #c817ff;
+  font-size:33px;
+ 
+}
+.red {
+  color: #f71ab7;
+}
+.myphoto {
+  margin-left: 660px;
+}
+.myphoto img {
+  width: 600px;
+  height: 650px;
+  border-bottom: solid #1c222a 4px;
+}
+
+.prot-myself {
+  width: 800px;
+  margin-top: -450px;
+}
+.prot-myself h2 {
+  color: white;
+  font-weight: 700;
+  font-size: 30px;
+}
+.prot-myself h1 {
+  font-size: 55px;
+  color: white;
+  font-weight: 700;
+}
+.prot-myself h3 {
+  font-weight: 600;
+  color: #fff414;
+  font-size: 30px;
+}
+.prot-myself p {
+  color: white;
+  font-weight: 500;
+  font-size: 22px;
+  text-transform: capitalize;
+}
+.prot-myself button {
+  width: 300px;
+  padding: 15px;
+  font-size: 25px;
+  background: orange;
+  color: white;
+  border-radius:50px;
+}
+button:hover {
+  background:red;
+  color: white;
+}
+
+
+.my-pofation {
+  text-align: center;
+}
+.my-pofation h1 {
+  color: white;
+  font-size: 40px;
+}
+
+.my-pofation p {
+  color: orange;
+  font-size: 25px;
+  margin-top: -20px;
+}
+
+
+.myservice {
+  display: inline-flex;
+  margin-left: 70px;
+}
+.skils-info {
+  width: 330px;
+  padding: 12px;
+  background-color: #1c222a;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.skils-info img {
+  width: 330px;
+  height: 200px;
+}
+.skils-info h1 {
+  color: white;
+}
+.skils-info p {
+  color: white;
+  font-size: 17px;
+}
+.skils-info a {
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+
+.potfoliyo {
+  margin-top: 100px;
+  text-align: center;
+}
+.potfoliyo h1 {
+  color: white;
+  font-size: 40px;
+}
+
+.potfoliyo p {
+  color: orange;
+  font-size: 25px;
+  margin-top: -20px;
+}
+
+.my-potfoliyo {
+  display: inline-flex;
+  margin-left: 80px;
+}
+.potfoliyo-info {
+  width: 330px;
+  padding: 10px;
+  background-color: #1c222a;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.potfoliyo-info img {
+  width: 330px;
+  height: 200px;
+}
+.potfoliyo-info h3 {
+  color: orange;
+}
+.potfoliyo-info h1 {
+  color: white;
+}
+.potfoliyo-info a {
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.testimonial {
+  margin-top: 100px;
+  text-align: center;
+}
+.testimonial h1 {
+  color: white;
+  font-size: 40px;
+}
+
+.testimonial p {
+  color: orange;
+  font-size: 25px;
+  margin-top: -20px;
+}
+
+.top-reviw {
+  display: inline-flex;
+  margin-left: 40px;
+  margin-top: 50px;
+}
+.cline-reviwe {
+  width: 330px;
+  height: 300px;
+  padding: 20px;
+  background-color: #1c222a;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.cline-reviwe p {
+  color: white;
+  font-size: 18px;
+}
+.cline-reviwe img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+  margin-left: 120px;
+  margin-top: 10px;
+}
+.cline-reviwe h3 {
+  text-align: center;
+  color: orange;
+  font-size: 22px;
+  text-transform: capitalize;
+}
+.cline-reviwe h1 {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  text-transform: capitalize;
+  margin-top: -20px;
+}
+
+.contact-me {
+  margin-top: 80px;
+  text-align: center;
+}
+.contact-me h1 {
+  color: white;
+  font-size: 40px;
+}
+
+.contact-me p {
+  color: orange;
+  font-size: 25px;
+  margin-top: -20px;
+}
+
+.contact-info {
+  display: inline-flex;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.contact {
+  width: 330px;
+  height: 150px;
+  padding: 20px;
+  margin-right: 20px;
+  background-color: #1c222a;
+  border-radius: 10px;
+}
+
+.contact img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-left: 140px;
+}
+
+.contact h1 {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  margin-top: -5px;
+  text-transform: capitalize;
+}
+.contact p {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  margin-top: -20px;
+}
+
+.footer-end {
+  display: inline-flex;
+  margin-left: 150px;
+  background-color: #1c222a;
+}
+.footer {
+  width: 350px;
+}
+.footer h1 {
+  color: white;
+  font-size: 37px;
+  text-align:center;
+}
+.footer p {
+  color: white;
+  font-size: 20px;
+}
+.footer button {
+  background:none;
+  color:white;
+  font-size:22px;
+  margin-left:100px;
+  padding:10px;
+}
+.footer nav {
+  width: 100px;
+  margin-left:130px;
+  margin-top:-20px;
+ 
+}
+
+.footer nav a {
+  color: white;
+  font-size: 22px;
+  padding:10px;
+  text-decoration:none;
+  
+}
+
+nav a:hover{
+  color:orange;
+}
+
+.bg-full{
+  margin-top:30px;
+  background-color: #1c222a;
+
+}
+.bg-full h3{
+  text-align:center;
+  color: orange;
+  margin-left:800px;
+  padding:10px;
+}
+
+
+.youtube {
+  color: white;
+  font-size: 30px;
+  padding: 10px;
+ text-align:center;
+ 
+}
+.whp {
+  color: white;
+  font-size: 30px;
+  padding: 10px;
+  text-align:center;
+
+}
+.insta {
+  color: white;
+  font-size: 30px;
+  padding: 10px;
+  text-align:center;
+}
+.fb {
+  color: white;
+  font-size: 30px;
+  padding: 10px;
+  text-align:center;
+  margin-left:80px;
+
+}
+
+ 

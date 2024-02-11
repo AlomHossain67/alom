@@ -1,0 +1,317 @@
+body {
+  background-color: #111122;
+}
+/*My potfoliyo websaite*/
+.name{
+  margin-left:30px;
+}
+.name a{
+  text-decoration:none;
+}
+.name h1 {
+  color: #c817ff;
+  font-size:33px;
+   
+}
+.red {
+  color: #f71ab7;
+}
+
+
+.navigation-ber {
+  margin-left: 600px;
+  text-align: center;
+  margin-top: -40px;
+}
+.navigation-ber a {
+  color: white;
+  text-align: center;
+  font-size: 23px;
+  padding: 10px;
+  text-decoration:none;
+}
+a:hover {
+  color: orange;
+  
+}
+
+.color-bg {
+  background: orange;
+  border-radius:20px;
+}
+
+
+.About-me {
+margin-top:60px;
+}
+.About-me img {
+  width: 300px;
+  height: 300px;
+  margin-left: 470px;
+  background-color: orange;
+  padding:10px;
+  border-radius: 50%;
+}
+.About-me h1 {
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  margin-top: -20px;
+  
+}
+.About-me p {
+  text-align: center;
+  color: orange;
+  font-size: 25px;
+  margin-top: -40px;
+}
+
+.about-dettals {
+}
+.about-dettals h1 {
+  color: orange;
+  font-size: 45px;
+}
+.about-dettals p {
+  color: white;
+  font-size: 20px;
+}
+
+.education-info {
+  display: inline-flex;
+}
+.education {
+  width: 560px;
+  height: 500px;
+  background-color: #1c222a;
+  margin-right: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.education h1 {
+  color: orange;
+  font-size: 34px;
+  margin-left: 20px;
+}
+
+.education p {
+  margin-left: 20px;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}
+.education h3 {
+  color: white;
+  font-size: 23px;
+  margin-left: 20px;
+  margin-top: -10px;
+}
+.book {
+  color: orange;
+  font-size: 34px;
+  margin-left: 20px;
+}
+.bok {
+  color: orange;
+  font-size: 34px;
+  margin-left: 20px;
+}
+.skill {
+  width: 600px;
+  height: 500px;
+  background-color: #1c222a;
+  padding: 10px;
+  border-radius: 10px;
+}
+.skill h1 {
+  color: orange;
+  font-size: 30px;
+}
+.skill h2 {
+  text-transform: uppercase;
+  padding: 17px;
+  font-size: 15px;
+  color: black;
+  background: orange;
+}
+.parcen {
+  margin-left: 100px;
+}
+
+.head-exprence {
+  margin-top: 50px;
+}
+.head-exprence h1 {
+  color: orange;
+  text-align: center;
+  font-size: 45px;
+}
+.head-exprence p {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  margin-top: -20px;
+}
+
+.experienc-info {
+}
+.experienc {
+  background-color: #1c222a;
+  padding:13px;
+  margin-top:20px;
+  border-radius:10px;
+}
+.codei-cone {
+  color: orange;
+  font-size: 50px;
+}
+.experienc h4 {
+  color: white;
+  font-size: 16px;
+}
+.experienc h1 {
+  color: white;
+  font-size: 26px;
+  margin-top:-12px;
+}
+.experienc p {
+  color: white;
+  font-size:19px;
+margin-top:-10px;
+}
+
+
+.contact-me {
+    margin-top: 80px;
+    text-align: center;
+  }
+  .contact-me h1 {
+    color: white;
+    font-size: 40px;
+  }
+  
+  .contact-me p {
+    color: orange;
+    font-size: 25px;
+    margin-top: -20px;
+  }
+  
+  .contact-info {
+    display: inline-flex;
+    margin-left: 50px;
+    margin-top: 20px;
+  }
+  .contact {
+    width: 330px;
+    height: 150px;
+    padding: 20px;
+    margin-right: 20px;
+    background-color: #1c222a;
+    border-radius: 10px;
+  }
+  
+  .contact img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-left: 140px;
+  }
+  
+  .contact h1 {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-top: -5px;
+    text-transform: capitalize;
+  }
+  .contact p {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: -20px;
+  }
+  
+  .footer-end {
+    display: inline-flex;
+    margin-left: 150px;
+    background-color: #1c222a;
+  }
+  .footer {
+    width: 350px;
+  }
+  .footer h1 {
+    color: white;
+    font-size: 37px;
+    text-align:center;
+  }
+  .footer p {
+    color: white;
+    font-size: 20px;
+  }
+  .footer button {
+    background:none;
+    color:white;
+    font-size:22px;
+    margin-left:100px;
+    padding:10px;
+  }
+  .footer nav {
+    width: 100px;
+    margin-left:130px;
+    margin-top:-20px;
+   
+  }
+  
+  .footer nav a {
+    color: white;
+    font-size: 22px;
+    padding:10px;
+    text-decoration:none;
+    
+  }
+  
+  nav a:hover{
+    color:orange;
+  }
+  
+  .bg-full{
+    margin-top:30px;
+    background-color: #1c222a;
+  
+  }
+  .bg-full h3{
+    text-align:center;
+    color: orange;
+    margin-left:800px;
+    padding:10px;
+  }
+  
+  
+  .youtube {
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+   text-align:center;
+   
+  }
+  .whp {
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    text-align:center;
+  
+  }
+  .insta {
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    text-align:center;
+  }
+  .fb {
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    text-align:center;
+    margin-left:80px;
+  
+  }
